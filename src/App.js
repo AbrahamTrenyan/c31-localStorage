@@ -10,7 +10,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Agregar />} />
-        <Route path="/productos" element={<Productos />} />
+        <Route path="/c31-localStorage/productos" element={<Productos />} />
       </Routes>
     </Router>
   );
